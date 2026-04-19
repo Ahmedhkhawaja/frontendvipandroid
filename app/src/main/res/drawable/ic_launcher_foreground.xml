@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Minimal "U" person silhouette in UNSW Navy on a transparent background -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Head circle -->
+    <path
+        android:fillColor="#003087"
+        android:pathData="M54,32 a14,14 0,1 1,0 28 a14,14 0,1 1,0 -28z" />
+
+    <!-- Shoulders arc -->
+    <path
+        android:fillColor="#003087"
+        android:pathData="M30,80 Q30,62 54,62 Q78,62 78,80 Z" />
+
+</vector>

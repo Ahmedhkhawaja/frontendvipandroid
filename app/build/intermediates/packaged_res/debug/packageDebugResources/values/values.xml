@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="unsw_navy">#003087</color>
+    <color name="unsw_yellow">#FFD100</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">UNSW Digital ID</string>
+    <style name="Theme.UNSWDigitalID" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/unsw_navy</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

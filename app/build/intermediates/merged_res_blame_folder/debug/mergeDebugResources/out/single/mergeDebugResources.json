@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.unsw.digitalid.app-debug-52:/drawable_student_photo.png.flat",
+        "source": "com.unsw.digitalid.app-main-54:/drawable/student_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-debug-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-debug-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-debug-52:\\drawable_unsw_logo.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-main-54:\\drawable\\unsw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-debug-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-debug-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.9\\com.unsw.digitalid.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

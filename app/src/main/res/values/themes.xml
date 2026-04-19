@@ -1,0 +1,11 @@
+<resources>
+    <!--
+        Window theme applied before Compose takes over.
+        NoActionBar keeps the system action bar hidden (Compose TopAppBar is used instead).
+    -->
+    <style name="Theme.UNSWDigitalID" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/unsw_navy</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

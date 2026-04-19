@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Colour definitions for the splash / legacy window background only.
+     All runtime colours are declared as Compose Color vals in AppTheme.kt. -->
+<resources>
+    <color name="unsw_yellow">#FFD100</color>
+    <color name="unsw_navy">#003087</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
