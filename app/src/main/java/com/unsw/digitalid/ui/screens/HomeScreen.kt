@@ -442,7 +442,7 @@ private fun NfcHintBanner() {
                 modifier           = Modifier.size(22.dp),
             )
             Text(
-                text       = "NFC room access will be enabled here.\nHold your phone near a UNSW door reader.",
+                text       = "Hold your phone near a UNSW reader to present your credential.",
                 style      = MaterialTheme.typography.bodySmall,
                 color      = UnswNavy.copy(alpha = 0.55f),
                 lineHeight = 18.sp,
