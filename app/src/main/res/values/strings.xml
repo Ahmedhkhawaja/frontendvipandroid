@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UNSW Digital ID</string>
+    <string name="servicedesc">UNSW Student Credential</string>
+    <string name="aiddesc">Student ID</string>
 </resources>
